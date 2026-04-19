@@ -18,25 +18,25 @@ A cryptocurrency price tracking web application that displays real-time market d
 - Vite
 
 ##  Project Structure
-  src/
-  components/
-  pages/
-  App.jsx
-  main.jsx
+- src/
+- components/
+- pages/
+- App.jsx
+- main.jsx
 
 ##  Installation & Setup
 
 1. Clone the repository
-   git clone https://github.com/KundanDessai/cryptoplace-a-crypto-price-tracker.git
+- git clone https://github.com/KundanDessai/cryptoplace-a-crypto-price-tracker.git
 2. Navigate to project folder
-   cd cryptoplace-a-crypto-price-tracker
+- cd cryptoplace-a-crypto-price-tracker
 3. Install dependencies
-   npm install
+- npm install
 4. Run development server
-   npm run dev
+- npm run dev
 
 ##  Live Demo
-[Live Demo](https://cryptoplace-a-crypto-price-tracker.netlify.app/)
+[Click here](https://cryptoplace-a-crypto-price-tracker.netlify.app/)
 
 ##  Key Learnings
 - Working with external APIs
